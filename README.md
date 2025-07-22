@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -46,4 +47,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0238-product-of-array-except-self) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
