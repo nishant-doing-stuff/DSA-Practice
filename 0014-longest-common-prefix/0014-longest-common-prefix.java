@@ -1,4 +1,7 @@
 class Solution {
+    // time O(N^2)
+    // space O(1)
+    // pattern : string processing 
     public String longestCommonPrefix(String[] strs) {
         int i = 0;
         while (true) {
