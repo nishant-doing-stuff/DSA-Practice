@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0169-majority-element) |
+| [1297-maximum-number-of-balloons](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/1297-maximum-number-of-balloons) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0169-majority-element) |
+| [1297-maximum-number-of-balloons](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/1297-maximum-number-of-balloons) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 | [0014-longest-common-prefix](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0392-is-subsequence) |
+| [1297-maximum-number-of-balloons](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/1297-maximum-number-of-balloons) |
 ## Trie
 |  |
 | ------- |
