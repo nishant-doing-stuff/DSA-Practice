@@ -1,24 +1,27 @@
 class Solution {
-    public int[] productExceptSelf(int[] nums) {
-        ArrayList<Integer> leftMult = new ArrayList<Integer>();
-        ArrayList<Integer> rightMult = new ArrayList<Integer>();
-        int n = nums.length;
-        for (int i = 0; i < nums.length + 1; i++) {
-            leftMult.add(1);
-            rightMult.add(1);
-        }
+    // prefix array logic 
+    // time O(3n) 3 passes
+    // space O(2n) 2 prefix arrays 
+    // --done 
 
-        for (int i = 1; i < n; i++) {
-            leftMult.set(i, leftMult.get(i - 1) * nums[i - 1]);
+    // TODO : optimise this ..
+    // time O(2n) 2 passes
+    // space O(n) now creating a new output array and then storing prefix in that and also using a running product variable 
+
+    // output [i] = Product of values of nums of indices before i
+    // output [0] = nums[-1] == 1
+    // ouput [1] = nums[0]..... 
+    public int[] productExceptSelf(int[] nums) {
+        int[] outputArray = new int[nums.length];
+        outputArray[0] = 1;
+        for (int i = 1; i < nums.length; i++) {
+            outputArray[i] = outputArray[i - 1] * nums[i - 1];
         }
-        // System.out.print(leftMult);
-        for (int i = n - 1; i >= 0; i--) {
-            rightMult.set(i, rightMult.get(i + 1) * nums[i]);
+        int rightMul = 1;
+        for (int i = nums.length - 1; i >= 0; i--) {
+            outputArray[i] *= rightMul;
+            rightMul *= nums[i];
         }
-        // System.out.print(rightMult);
-        for(int i = 0 ;i<n;i++){
-            nums[i] = leftMult.get(i) * rightMult.get(i+1);
-        }
-        return nums;
+        return outputArray;
     }
 }
