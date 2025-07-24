@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
