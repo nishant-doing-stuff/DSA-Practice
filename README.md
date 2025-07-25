@@ -22,6 +22,7 @@
 | [0189-rotate-array](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0392-is-subsequence) |
+| [0908-middle-of-the-linked-list](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,4 +73,8 @@
 | ------- |
 | [0136-single-number](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0191-number-of-1-bits) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
