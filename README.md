@@ -6,6 +6,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0041-first-missing-positive](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0136-single-number) |
@@ -28,6 +29,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
