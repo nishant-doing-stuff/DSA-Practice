@@ -7,7 +7,7 @@ public:
         for(int i = 0;i<nums.size();i++){
             if(nums[i]<0)
              nums[i] = 0;
-            if(nums[i]>0 && firstNonNegative)
+            if(nums[i]>0 && firstNonNegative==-1)
                 firstNonNegative = nums[i];
         }
         if(firstNonNegative == -1)
