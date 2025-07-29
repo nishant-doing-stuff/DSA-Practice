@@ -10,6 +10,7 @@
 | [0136-single-number](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0283-move-zeroes) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [1297-maximum-number-of-balloons](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/1297-maximum-number-of-balloons) |
 ## Divide and Conquer
 |  |
@@ -77,4 +79,8 @@
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
