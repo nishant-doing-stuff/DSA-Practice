@@ -6,6 +6,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0169-majority-element) |
@@ -27,6 +28,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [1297-maximum-number-of-balloons](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/1297-maximum-number-of-balloons) |
@@ -38,6 +40,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -62,6 +65,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0392-is-subsequence) |
