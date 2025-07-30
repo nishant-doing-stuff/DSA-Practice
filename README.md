@@ -31,6 +31,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [1297-maximum-number-of-balloons](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/1297-maximum-number-of-balloons) |
@@ -70,6 +71,7 @@
 | [0014-longest-common-prefix](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0392-is-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/1297-maximum-number-of-balloons) |
@@ -92,4 +94,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
