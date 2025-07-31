@@ -15,6 +15,7 @@
 | [0219-contains-duplicate-ii](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0283-move-zeroes) |
+| [1635-number-of-good-pairs](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/1635-number-of-good-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Two Pointers
 |  |
@@ -35,6 +36,7 @@
 | [0169-majority-element](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [1297-maximum-number-of-balloons](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/1297-maximum-number-of-balloons) |
+| [1635-number-of-good-pairs](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/1635-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -51,6 +53,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0169-majority-element) |
 | [1297-maximum-number-of-balloons](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/1297-maximum-number-of-balloons) |
+| [1635-number-of-good-pairs](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/1635-number-of-good-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,6 +63,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0189-rotate-array) |
+| [1635-number-of-good-pairs](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/1635-number-of-good-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Prefix Sum
 |  |
