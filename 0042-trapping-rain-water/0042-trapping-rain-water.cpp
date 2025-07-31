@@ -1,6 +1,38 @@
 class Solution {
 public:
-    int trap(vector<int>& height) {
+    int trap(vector<int>& height){
+        int n = height.size();
+        if(n<3)
+            return 0;
+        int li = 0;
+        int ri = n-1;
+        int lmax = 0;
+        int rmax = 0;
+        int ans = 0;
+        while(li<ri){
+            if(height[li]<height[ri]){
+                if(height[li]>lmax) // if bigger wall 
+                    lmax = height[li]; 
+                else // smaller wall 
+                    ans += lmax - height[li];
+
+                li++;
+            }
+            else{
+                if(height[ri]>rmax)
+                    rmax = height[ri];
+                else 
+                    ans+= rmax - height[ri];
+                ri--;
+            }
+        }
+        return ans;
+    }
+
+
+// time O(N^2)
+// space O(1)
+    int trap_sol2(vector<int>& height) {
         if(height.size()<2)
             return 0;
         int n = height.size();
