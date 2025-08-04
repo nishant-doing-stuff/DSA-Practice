@@ -1,13 +1,18 @@
 class Solution {
 public:
+// optimised ( DP )
+// time O(N)
     vector<int> countBits(int n) {
     vector<int> ans(max(n + 1, 2), 0);
     ans[0] = 0;
     ans[1] = 1;
+    int offset = 1;
     for (int i = 2; i <= n; i++) {
-        int curMod = 1 << (int)floor(log2(i));
+        if(offset*2 == i){
+                offset=i;
+            }
         // cout << i << " " << curMod << endl;
-        int curIndex = i%curMod;
+        int curIndex = i%offset;
         int curVal = 1 + ans[curIndex];
         ans[i] = curVal;
     }
