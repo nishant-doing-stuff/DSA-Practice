@@ -63,6 +63,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0392-is-subsequence) |
 ## Math
 |  |
@@ -95,6 +96,7 @@
 | [0190-reverse-bits](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0338-counting-bits](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0338-counting-bits) |
 ## Linked List
 |  |
 | ------- |
