@@ -1,8 +1,31 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        vector<vector<int>> dp(prices.size(), vector<int>(2, -1));
-        return solution(0, 0, dp, prices);
+        vector<vector<int>> dp(prices.size()+1, vector<int>(2, 0));
+        for (int curIdx = prices.size()-1; curIdx >=0; curIdx--) {
+            for (int didBought = 1; didBought >= 0 ; didBought--) {
+                if (didBought) {
+                    // sell
+                    int sell = prices[curIdx] + dp[curIdx + 1][0];
+                    // dontSell
+                    int dontSell = dp[curIdx + 1][didBought];
+                    dp[curIdx][didBought] = max(sell, dontSell);
+                } else {
+                    // buy
+                    int buy = dp[curIdx][1] - prices[curIdx];
+                    // dontBuy
+                    int didnBuy = dp[curIdx + 1][didBought];
+                    dp[curIdx][didBought] = max(buy, didnBuy);
+                }
+            }
+        }
+        for(int i =0;i<dp.size();i++){
+            for(int j = 0;j<dp[0].size();j++){
+                cout<<dp[i][j]<<" ";
+            }
+            cout<<endl;
+        }
+        return dp[0][0];
     }
     int solution(int curIdx, int didBought, vector<vector<int>>& dp,
                  vector<int>& prices) {
