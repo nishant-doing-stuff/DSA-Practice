@@ -9,6 +9,7 @@
 | [0041-first-missing-positive](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0136-single-number) |
@@ -37,6 +38,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
@@ -127,4 +129,8 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
