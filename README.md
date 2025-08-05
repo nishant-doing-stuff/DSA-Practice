@@ -10,6 +10,7 @@
 | [0042-trapping-rain-water](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0136-single-number) |
@@ -26,6 +27,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -54,6 +56,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0169-majority-element) |
 ## Counting
 |  |
