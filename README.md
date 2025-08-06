@@ -107,6 +107,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
 ## Sliding Window
 |  |
@@ -136,4 +137,8 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
