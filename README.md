@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0075-sort-colors) |
@@ -81,6 +82,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0189-rotate-array) |
 | [1635-number-of-good-pairs](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/1635-number-of-good-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -147,6 +149,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/1036-rotting-oranges) |
