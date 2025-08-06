@@ -79,6 +79,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0189-rotate-array) |
 | [1635-number-of-good-pairs](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/1635-number-of-good-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -176,4 +178,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0547-number-of-provinces) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
