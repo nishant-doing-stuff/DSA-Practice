@@ -21,6 +21,7 @@ public:
             {-1, 0}
         };
         int time = 0;
+        // we can remove the 2 queues by just itereationg over the level by doing i<q.size();
         while (!q1.empty()) {
             queue<pair<int,int>> q = q1;
             q1 = queue<pair<int,int>>(); // reset q1 properly
