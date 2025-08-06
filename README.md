@@ -119,6 +119,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0127-word-ladder) |
+| [0547-number-of-provinces](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0547-number-of-provinces) |
 ## Binary Search
 |  |
 | ------- |
@@ -143,4 +144,16 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0206-reverse-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0547-number-of-provinces) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
