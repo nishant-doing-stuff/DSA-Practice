@@ -21,6 +21,7 @@
 | [0219-contains-duplicate-ii](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [1036-rotting-oranges](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/1036-rotting-oranges) |
 | [1635-number-of-good-pairs](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/1635-number-of-good-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -35,6 +36,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
@@ -106,6 +108,7 @@
 | [0190-reverse-bits](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0287-find-the-duplicate-number](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0338-counting-bits) |
 ## Linked List
 |  |
@@ -126,6 +129,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
