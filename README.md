@@ -21,6 +21,7 @@
 | [0219-contains-duplicate-ii](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0283-move-zeroes) |
+| [1036-rotting-oranges](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/1036-rotting-oranges) |
 | [1635-number-of-good-pairs](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/1635-number-of-good-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Two Pointers
@@ -120,6 +121,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0127-word-ladder) |
 | [0547-number-of-provinces](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/1036-rotting-oranges) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,6 +142,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
+| [1036-rotting-oranges](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/1036-rotting-oranges) |
 ## Recursion
 |  |
 | ------- |
