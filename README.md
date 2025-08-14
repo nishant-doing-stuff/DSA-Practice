@@ -26,6 +26,7 @@
 | [0238-product-of-array-except-self](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0890-lemonade-change](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0890-lemonade-change) |
 | [1036-rotting-oranges](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/1036-rotting-oranges) |
 | [1635-number-of-good-pairs](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/1635-number-of-good-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -156,6 +157,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0890-lemonade-change](https://github.com/nishant-doing-stuff/DSA-Practice/tree/master/0890-lemonade-change) |
 ## Matrix
 |  |
 | ------- |
